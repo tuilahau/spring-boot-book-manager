@@ -1,4 +1,4 @@
-bash -lc cat > /mnt/data/README.md <<'EOF'
+
 <div align="center">
 
 # 📚 Book Management System
